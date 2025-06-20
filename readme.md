@@ -50,21 +50,16 @@
 ---
 
 ## 📊 GitHub Analytics
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=osman-bin-nasir&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
 
-## 📊 GitHub Analytics
-<img src="https://komarev.com/ghpvc/?username=osman-bin-nasir&style=for-the-badge&color=blue" alt="Profile Views"/>
-  
-
+<!-- Top Languages Chart -->
 <div align="center">
-  <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-bin-nasir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=jupyter%20notebook" alt="Top Languages"/>
-  
-  <!-- GitHub Streak -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=osman-bin-nasir&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-  
-  <!-- GitHub Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osman-bin-nasir&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
+
 
 
 ---
