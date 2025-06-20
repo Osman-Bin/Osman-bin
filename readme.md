@@ -51,25 +51,13 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <!-- Profile Views Badge -->
-  <a href="https://github.com/osman-bin-nasir">
-    <img 
-      src="https://komarev.com/ghpvc/?username=osman-bin-nasir&style=for-the-badge&label=👀+Profile+Views&color=blueviolet" 
-      alt="Profile Views" 
-      style="margin-bottom: 10px;"
-    />
-  </a>
+## 📊 GitHub Analytics
 
-  <!-- Top Languages Card -->
-  <a href="https://github.com/osman-bin-nasir">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-bin-nasir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=jupyter%20notebook" 
-      alt="Top Languages" 
-      width="400"
-    />
-  </a>
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=👁️+Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fosman-bin-nasir%2Fprofile-views&style=flat-square&logo=github" alt="Visitors"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-bin-nasir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=jupyter%20notebook" alt="Top Languages"/>
 </div>
+
 
 
 
