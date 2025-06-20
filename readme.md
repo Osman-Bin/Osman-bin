@@ -51,20 +51,11 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osman-bin-nasir&style=for-the-badge&label=👀+Profile+Views&color=blueviolet" alt="Profile Views"/>
-</p>
 
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osman-bin-nasir&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
-
-<!-- Top Languages Chart -->
 <div align="center">
+   <img src="https://komarev.com/ghpvc/?username=osman-bin-nasir&style=for-the-badge&label=👀+Profile+Views&color=blueviolet" alt="Profile Views"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-bin-nasir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=jupyter%20notebook" alt="Top Languages"/>
 </div>
-
 
 
 ---
