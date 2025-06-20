@@ -51,13 +51,23 @@
 
 ## 📊 GitHub Analytics
 
+
+<div align="center">
+  <!-- Circle-style Icon Badge -->
+  <img src="https://img.shields.io/badge/👁️%20Visitors-Loading...-blueviolet?style=for-the-badge&labelColor=24292e&logo=github" alt="Profile Views" />
+
+  <!-- GitHub Readme Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-bin-nasir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=jupyter%20notebook" alt="Top Languages"/>
+</div>
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=👁️+Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fosman-bin-nasir%2Fprofile-views&style=flat-square&logo=github" alt="Visitors"/>
+  <!-- Circle-style Icon Badge -->
+  <img src="https://img.shields.io/badge/👁️%20Visitors-Loading...-blueviolet?style=for-the-badge&labelColor=24292e&logo=github" alt="Profile Views" />
+
+  <!-- GitHub Readme Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-bin-nasir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=jupyter%20notebook" alt="Top Languages"/>
 </div>
-
 
 
 
