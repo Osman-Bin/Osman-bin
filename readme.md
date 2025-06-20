@@ -49,19 +49,57 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Live Visitor Count -->
-  <img src="https://img.shields.io/badge/dynamic/json?label=👁️%20Visitors&query=value&url=https://api.countapi.xyz/get/osman-bin-nasir/profile-views&color=blueviolet&style=for-the-badge&labelColor=24292e&logo=github" alt="Visitor Count"/>
 
-  <!-- GitHub Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-bin-nasir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=jupyter%20notebook" alt="Top Languages"/>
+  <!-- Overall GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=osman-bin-nasir
+      &show_icons=true
+      &theme=react
+      &border_radius=15
+      &bg_color=0D1117
+      &title_color=58A6FF
+      &text_color=C9D1D9
+      &icon_color=58A6FF"
+    alt="GitHub Stats"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-bin-nasir
+      &layout=compact
+      &theme=react
+      &border_radius=15
+      &bg_color=0D1117
+      &title_color=58A6FF
+      &text_color=C9D1D9"
+    alt="Top Languages"
+  />
+
+  <!-- Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=osman-bin-nasir
+      &theme=react
+      &border_radius=15
+      &background=0D1117
+      &fire=58A6FF
+      &currStreakNum=58A6FF
+      &sideNums=C9D1D9"
+    alt="GitHub Streak Stats"
+  />
+
+  <!-- Contribution Graph -->
+  <img
+    src="https://activity-graph.herokuapp.com/graph?username=osman-bin-nasir
+      &theme=react-dark
+      &area=true
+      &hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+
 </div>
-
 
 
 ---
