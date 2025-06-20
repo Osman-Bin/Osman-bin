@@ -52,6 +52,8 @@
 ## 📊 GitHub Analytics
 
 ## 📊 GitHub Analytics
+<img src="https://komarev.com/ghpvc/?username=osman-bin-nasir&style=for-the-badge&color=blue" alt="Profile Views"/>
+  
 
 <div align="center">
   <!-- Top Languages -->
