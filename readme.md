@@ -50,6 +50,11 @@
 ---
 
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=osman-bin-nasir&style=for-the-badge&label=👀+Profile+Views&color=blueviolet" alt="Profile Views"/>
+</p>
+
 <!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=osman-bin-nasir&style=for-the-badge&color=blue" alt="Profile Views"/>
