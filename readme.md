@@ -50,6 +50,13 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osman-bin-nasir&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Osman's GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osman-bin-nasir&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Osman's GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-bin-nasir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Osman's Top Languages" />
+</div>
 
 ## 📊 Visitor Count
 
